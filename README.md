@@ -1,13 +1,13 @@
 # Hi there👋, I'm **Pavlo**
 
-> ### A passionate frontend developer from Ukraine 💛💙
+> ### A passionate front-end developer from Ukraine 💛💙
 ---
 
 * 🔭 I’m currently working on some project
 * 🌱 I’m currently learning hands on
 * 👯 I’m looking for interesting job as junior front-end developer
 * 💬 Ask me for help. I'm happy to help
-* 📫 How to reach me: [E-Mail](kravchuk.pavlo@ukr.net)
+* 📫 How to reach me: [✉️](kravchuk.pavlo@ukr.net)
 * 😄 Pronouns: friendly, hardworking, reliable...
 * ⚡ Fun fact: If you want to be sure what line the ERROR is on, ~~write all your code on one line~~
 ---
