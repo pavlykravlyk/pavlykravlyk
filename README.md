@@ -5,7 +5,7 @@
 
 * 🔭 I’m currently working on some project
 * 🌱 I’m currently learning hands on
-* 👯 I’m looking for interesting job as junior front-end developer
+* 👯 I’m looking for interesting job as front-end developer
 * 💬 Ask me for help. I'm happy to help
 * 📫 How to reach me: [✉️](mailto:kravchuk.pavlo@ukr.net)
 * 😄 Pronouns: friendly, hardworking, reliable...
